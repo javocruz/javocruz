@@ -1,17 +1,13 @@
-<!--
-Hi! This is your GitHub Profile README.
-Repo name must match your username exactly: javocruz
--->
 
 # Javier Cruz Villarreal
 **CS & AI Undergraduate (Madrid) • Full-Stack Builder • Growth-minded**
 
-I’m a Computer Science & Artificial Intelligence undergraduate based in **Madrid, Spain**, building products end-to-end—from concept to deployment—while keeping an eye on **UX, data, and growth**.
+I’m a Computer Science & Artificial Intelligence undergraduate based in **Madrid, Spain**, focused on building end-to-end products that balance **engineering quality, usability, and data-driven decision making**.
 
-- 🔭 Recently led a small team to ship a real-time dashboard platform for a vegan restaurant (**Frutas Prohibidas**)  
-- 🧩 I like: React + TypeScript, Node/Express, dashboards, clean UI, and pragmatic backend design  
-- 📈 Also experienced in **growth strategy & social media** for early-stage startups  
-- 🌱 Currently sharpening: system design, data analytics, and product thinking
+- 🧠 Full-stack developer with strong frontend and backend experience  
+- 📊 Comfortable working with data, analytics, and dashboards  
+- 🚀 Background in growth strategy and early-stage startup execution  
+- 🌱 Currently improving system design, scalability, and product thinking
 
 ---
 
@@ -19,34 +15,17 @@ I’m a Computer Science & Artificial Intelligence undergraduate based in **Madr
 ### 🧠 Full-stack product development
 - Frontend: **React (TypeScript)**  
 - Backend: **Node.js / Express**  
-- Data/Auth: **Supabase**, role-based access control  
-- Delivery: **CI/CD**, automated testing, streamlined deployments
+- Auth & data: **Supabase**, role-based access control  
+- Delivery: **CI/CD**, automated testing, production deployments
 
 ### 📊 Data & analytics
-- **SQL**, **BigQuery**, **Looker**  
-- Turning “we think” into “we know” through metrics and experimentation
+- **SQL**, **BigQuery**, **Looker**
+- Turning product questions into measurable insights
 
-### 🚀 Growth & social
-- Strategy and execution for **user acquisition & retention**
-- Social media ops and optimization (Instagram, TikTok)
-
----
-
-## Featured work
-### 🍃 Frutas Prohibidas — Vegan Restaurant Web App (Full-stack)
-**React + TypeScript • Node/Express • Supabase • CI/CD**
-- Real-time admin dashboard for managing menu items and sustainability metrics  
-- Secure authentication + **role-based access control**  
-- Eco-receipt printing rules configuration  
-- CI/CD pipeline for smooth testing and deployment
-
-### 🧱 Unity Web Design Reporting Interface
-**Unity UI • Bootstrap • Node/Express • AJAX**
-- Web-based reporting interface with responsive design  
-- Real-time sorting and updates using AJAX  
-- Backend for data management + server-client integration
-
-> If you want, I can add repo links + screenshots/GIFs once you share the URLs.
+### 🚀 Growth & product
+- User acquisition & retention strategy  
+- Social media operations and performance optimization  
+- Cross-functional collaboration between tech and business
 
 ---
 
@@ -62,10 +41,17 @@ I’m a Computer Science & Artificial Intelligence undergraduate based in **Madr
 
 ---
 
-## Certifications
-- Google Cloud Computing Foundations Academy  
-- freeCodeCamp Responsive Web Design  
-- Google Project Management Professional Certificate (in progress)
+## Most used languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javocruz&layout=compact)
+
+---
+
+## Badges
+![React](https://img.shields.io/badge/React-000?logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript)
+![Node.js](https://img.shields.io/badge/Node.js-000?logo=node.js)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-000?logo=googlecloud)
+![Docker](https://img.shields.io/badge/Docker-000?logo=docker)
 
 ---
 
@@ -73,28 +59,13 @@ I’m a Computer Science & Artificial Intelligence undergraduate based in **Madr
 - 📫 Email: **javiercruzvill123@gmail.com**
 - 💼 LinkedIn: https://linkedin.com/in/javiercruzv
 - 🌐 GitHub: https://github.com/javocruz
-- 📍 Location: Madrid, Spain
-
----
-
-## Fun extras (optional but recommended)
-### GitHub stats
-> Replace `javocruz` if you ever change your username.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=javocruz&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javocruz&layout=compact)
-
-### Badges
-![React](https://img.shields.io/badge/React-000?logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript)
-![Node.js](https://img.shields.io/badge/Node.js-000?logo=node.js)
-![GCP](https://img.shields.io/badge/Google%20Cloud-000?logo=googlecloud)
-![Docker](https://img.shields.io/badge/Docker-000?logo=docker)
+- 📍 Madrid, Spain
 
 ---
 
 ## Open to
-- Collaborations on full-stack apps, dashboards, and data-driven products
-- Internships and project-based work (software engineering / product / growth analytics)
+- Software engineering internships and junior roles  
+- Full-stack, data-driven, and product-focused projects  
+- Collaborations on clean, well-designed applications
 
-If you’re building something interesting, I’d be glad to chat.
+If you’re building something interesting, feel free to reach out.
