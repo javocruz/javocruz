@@ -4,9 +4,8 @@
 
 I’m a Computer Science & Artificial Intelligence undergraduate based in **Madrid, Spain**, focused on building end-to-end products that balance **engineering quality, usability, and data-driven decision making**.
 
-- 🧠 Full-stack developer with strong frontend and backend experience  
-- 📊 Comfortable working with data, analytics, and dashboards  
-- 🚀 Background in growth strategy and early-stage startup execution  
+- 🧠 Full-stack developer with frontend and backend experience  
+- 📊 Comfortable working with data, analytics, and dashboards
 - 🌱 Currently improving system design, scalability, and product thinking
 
 ---
@@ -21,11 +20,6 @@ I’m a Computer Science & Artificial Intelligence undergraduate based in **Madr
 ### 📊 Data & analytics
 - **SQL**, **BigQuery**, **Looker**
 - Turning product questions into measurable insights
-
-### 🚀 Growth & product
-- User acquisition & retention strategy  
-- Social media operations and performance optimization  
-- Cross-functional collaboration between tech and business
 
 ---
 
