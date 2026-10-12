@@ -1,65 +1,46 @@
+# cs & ai student, builder
 
-# Javier Cruz Villarreal
-**CS & AI Undergraduate (Madrid) • Full-Stack Builder • Growth-minded**
+i'm a computer science & artificial intelligence student at IE University.  
+i'm from mexico, spent a year at tec de monterrey, and now i'm based in madrid.
 
-I’m a Computer Science & Artificial Intelligence undergraduate based in **Madrid, Spain**, focused on building end-to-end products that balance **engineering quality, usability, and data-driven decision making**.
+i like building ai products end to end, especially in regulated industries where the details matter.  
+full-stack by default: react + typescript on the front, node + express on the back, supabase for auth and data, ci/cd to ship.
 
-- 🧠 Full-stack developer with frontend and backend experience  
-- 📊 Comfortable working with data, analytics, and dashboards
-- 🌱 Currently improving system design, scalability, and product thinking
+open to software engineering internships and junior roles, contact me!
 
----
+linkedin: [linkedin.com/in/javiercruzv](https://linkedin.com/in/javiercruzv)  
+email: [javiercruzvill123@gmail.com](mailto:javiercruzvill123@gmail.com)  
+portfolio: [javicruz.dev](https://javicruz.dev)
 
-## What I do
-### 🧠 Full-stack product development
-- Frontend: **React (TypeScript)**  
-- Backend: **Node.js / Express**  
-- Auth & data: **Supabase**, role-based access control  
-- Delivery: **CI/CD**, automated testing, production deployments
+## lately
 
-### 📊 Data & analytics
-- **SQL**, **BigQuery**, **Looker**
-- Turning product questions into measurable insights
+**co-founder & cto @ [pharmable](https://pharmable.dev/)**  
+pharmable helps pharma and biotech teams with regulatory affairs and compliance. it checks documents against the rules before they get submitted, so problems get caught early instead of in review.
 
----
+**cto @ hospitia**  
+stealth ai compliance startup for the hospitality sector.
 
-## Tech stack
-**Languages & Frameworks**  
-`Python` `TypeScript` `React` `Node.js` `Express` `C/C++`
+**team lead & software engineer @ ieu labs**
 
-**Data & Analytics**  
-`SQL` `BigQuery` `Looker`
+**ai lab ambassador @ ie university**
 
-**DevOps & Tools**  
-`GCP` `Docker` `CI/CD` `Git/GitHub` `VS Code` `Notion`
+**startup sourcing @ innovis vc**  
+deal flow for a student-led venture fund.
 
----
+[![Mexican golden eagle on a nopal with a snake, rendered as colour ASCII and rotating on a pen-plotter page](assets/eagle.svg)](assets/eagle.svg)
 
-## Most used languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javocruz&layout=compact)
+## also
 
----
+- partnerships officer @ ie technology & innovation club
+- co-building blau tech madrid: madrid's events, hackathons and builders in one place
+- helping bring a family sportswear brand into spain and the eu
 
-## Badges
-![React](https://img.shields.io/badge/React-000?logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript)
-![Node.js](https://img.shields.io/badge/Node.js-000?logo=node.js)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-000?logo=googlecloud)
-![Docker](https://img.shields.io/badge/Docker-000?logo=docker)
+## stack
 
----
+`Python` `TypeScript` `React` `Node.js` `Express` `C/C++`  
+`SQL` `BigQuery` `Looker`  
+`GCP` `Docker` `CI/CD` `Supabase` `Git`
 
-## Quick links
-- 📫 Email: **javiercruzvill123@gmail.com**
-- 💼 LinkedIn: https://linkedin.com/in/javiercruzv
-- 🌐 GitHub: https://github.com/javocruz
-- 📍 Madrid, Spain
+## github
 
----
-
-## Open to
-- Software engineering internships and junior roles  
-- Full-stack, data-driven, and product-focused projects  
-- Collaborations on clean, well-designed applications
-
-If you’re building something interesting, feel free to reach out.
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=javocruz&layout=compact)
