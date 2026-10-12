@@ -1,6 +1,6 @@
 # aspiring forward deployed ai engineer
 
-**cs & ai @ IE university · co-founder @ pharmable & hospitia · building ai that ships to real customers, from madrid, made in mexico 🇲🇽**
+**cs & ai @ IE university · co-founder @ pharmable · cto @ hospitia · building ai that ships to real customers, from madrid, made in mexico 🇲🇽**
 
 i'm a computer science & artificial intelligence student at IE University.  
 i'm mexican, spent two years at tec de monterrey, and now i'm based in madrid.
@@ -22,7 +22,7 @@ portfolio: [javicruz.dev](https://javicruz.dev)
 **co-founder @ [pharmable](https://pharmable.dev/)**  
 pharmable checks pharma and biotech documents against fda and ema regulations before they get submitted. it flags what's missing, shows which rule applies, keeps a tamper-proof audit trail and helps draft clinical study reports, so regulatory teams catch problems early instead of in review. i work across product and engineering: customer discovery with regulatory and qa leads, turning the prd into an mvp spec, and building it.
 
-**co-founder @ hospitia**  
+**cto @ hospitia**  
 stealth ai compliance startup for the hospitality sector.
 
 **up next @ bcg hackathon** · oct 16-17, 2026  
@@ -35,7 +35,8 @@ nasa's global hackathon. will update this with what we ship.
 
 ## best
 
-**1st in the happyrobot track @ hackspain**
+**1st place, happyrobot track @ hackspain 2026** · agentic drone system for wildfire response  
+won the track in 48 hours with a team of four. we built drone agents that help coordinate a wildfire response, and i scoped the workflow with active firefighters so it solved their actual problem. i owned the product, had a hand in the architecture and built the operator ui.
 
 **2nd place @ IE tech venture bootcamp** · streamscope  
 real-time intelligence for twitch chat. it mixes classic nlp, whisper transcription and gpt-4o-mini to tell streamers what their chat actually cares about, live. i took it from idea to pitch: scoped the product, split the work across the team and shipped 15k+ lines of code.
@@ -56,17 +57,22 @@ rag pipelines, ocr and llms applied to mortgage documents. 12% acceptance rate.
 
 **hackathons**
 - top 5 globally @ IATA x infosys sustainability datathon: predictive modeling for aviation sustainability in python, sql and bigquery
-- organizer @ cursor hackathon at IE: co-ran a 100+ person hackathon with cursor on the jury, built the repo structure, the judging rubric and the challenge prompt
 - iberdrola x IE sustainability datathon: optimized where to put ev chargers along spain's interurban roads, shipped the model, a bi map, a report and the pitch
 - runway ai characters hackathon, nyc: real-time asl teacher with mediapipe
 - elevenlabs x enzo ventures build night: voice agent gym coach
 - madhack x orca: multi-agent travel concierge
 - proptech buildathon: alpha lens, a neighborhood intelligence dashboard
 
-## also
+## at IE
 
-- ai lab ambassador @ IE university
-- partnerships officer @ IE technology & innovation club
+**ai lab ambassador @ IE university**  
+selected for performance to represent the ai lab.
+
+**partnerships officer @ IE technology & innovation club**  
+bringing companies and the student community together, including helping organize techie day.
+
+**organizer @ cursor hackathon at IE**  
+co-ran a 100+ person hackathon with cursor on the jury. built the repo structure, the judging rubric and the challenge prompt: "make one person's hard day easier."
 
 ## github
 
