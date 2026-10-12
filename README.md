@@ -59,6 +59,7 @@ sourced startups and ran deal flow for a student-led venture fund.
 rag pipelines, ocr and llms applied to mortgage documents. 12% acceptance rate in IE.
 
 **hackathons**
+- claude code x causaPrima 48h hackathon, madrid, worked with agents to simulate playing card games & markets
 - runway ai characters hackathon, nyc: real-time asl teacher with mediapipe
 - elevenlabs x enzo ventures build night: voice agent gym coach
 - madhack x orca: multi-agent travel concierge
