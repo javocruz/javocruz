@@ -17,6 +17,10 @@ linkedin: [linkedin.com/in/javiercruzv](https://linkedin.com/in/javiercruzv)
 email: [javiercruzvill123@gmail.com](mailto:javiercruzvill123@gmail.com)  
 portfolio: [javicruz.dev](https://javicruz.dev)
 
+<p align="center">
+  <a href="assets/eagle.svg"><img src="assets/eagle.svg" alt="Mexican golden eagle on a nopal with a snake, rendered as colour ASCII and rotating on a pen-plotter page" width="520"></a>
+</p>
+
 ## lately
 
 **co-founder @ [pharmable](https://pharmable.dev/)**  
@@ -30,8 +34,6 @@ two days building with bcg. will update this with what we ship.
 
 **up next @ nasa space apps challenge** · nov 1-15, 2026  
 nasa's global hackathon. will update this with what we ship.
-
-[![Mexican golden eagle on a nopal with a snake, rendered as colour ASCII and rotating on a pen-plotter page](assets/eagle.svg)](assets/eagle.svg)
 
 ## best
 
